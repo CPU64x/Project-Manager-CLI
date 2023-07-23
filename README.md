@@ -24,8 +24,8 @@ Have rust installed.
 
 | Operating System         | Version needed |
 | :---:                    | :---:          |
-| Windows 10/11            |     1.0 |
-| MacOS / Linux            |     1.0 |
+| Windows 10/11            |     1.1 |
+| MacOS / Linux            |     1.1 |
 
 ## Executable Name
 
